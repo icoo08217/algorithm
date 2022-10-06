@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baek4963 {
 
     public static int H , W ;
     public static int[][] island;

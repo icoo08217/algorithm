@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek2606{
 
     static int n; //정점의 개수
     static int m; //간선의 개수

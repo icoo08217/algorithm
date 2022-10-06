@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class baek18111 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();

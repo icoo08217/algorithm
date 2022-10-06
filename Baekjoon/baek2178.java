@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek2178{
 
     static int[][] maze;
     static boolean[][] visited;

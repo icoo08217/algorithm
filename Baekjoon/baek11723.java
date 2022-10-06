@@ -3,7 +3,7 @@ import java.io.*;
 
 // 비트 마스크 = 정수 이진수 표현을 자료구조로 쓰는 기법
 // 
-class Main{
+class baek11723{
 
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

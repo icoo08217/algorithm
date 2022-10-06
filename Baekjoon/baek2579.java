@@ -1,10 +1,8 @@
-package Baekjoon;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BaekJoon2579 {
+public class baek2579 {
     static Integer[] dp;
     static int[] stair;
     static int ans;

@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class Main {
+public class baek11650 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

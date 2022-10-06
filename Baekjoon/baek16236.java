@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class baek16236{
 
     public static final int max_val = 401, max_int = 21;
     public static int n, shark_x, shark_y, min_dist, min_x, min_y, result, eat_cnt = 0, shark_size = 2;

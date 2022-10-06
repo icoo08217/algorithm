@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main { // 2 * n 타일링
+class baek11726 { // 2 * n 타일링
 
     public static Integer dp[];
     public static void main(String[] args) throws IOException {

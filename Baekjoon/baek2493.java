@@ -11,7 +11,7 @@ class Top{
     }
 }
 
-public class Main {
+public class baek2493 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;

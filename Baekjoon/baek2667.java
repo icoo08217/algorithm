@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek2667{
 
     static int map[][]; // 지도
     static boolean visited[][]; //방문 여부

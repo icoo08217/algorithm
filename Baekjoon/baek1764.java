@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek1764{
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer str = new StringTokenizer(br.readLine());

@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-class Main{
+class baek10828{
 
     static Stack<Integer> stk = new Stack<>();
 

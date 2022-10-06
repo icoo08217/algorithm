@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main { // 구현 골드5 연구소
+public class baek14502 { // 구현 골드5 연구소
 
     //static 영역에 올릴 변수들 선언
     static int[][] lab; // 기둥이 세워진 연구실

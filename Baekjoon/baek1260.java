@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek1260{
 
     // 변수
     static int[][] check;

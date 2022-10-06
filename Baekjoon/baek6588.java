@@ -2,7 +2,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek6588{
 
     public static boolean[] decimal_boolean;
 

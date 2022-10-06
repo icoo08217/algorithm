@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class Main {
+public class baek1181 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

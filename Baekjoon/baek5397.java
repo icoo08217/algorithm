@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 // 스택 2개로 커서를 구현하였다. 스택1 과 스택2를 사이에 커서가 위치해있다고 생각하면 된다.
-class Main{
+class baek5397{
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

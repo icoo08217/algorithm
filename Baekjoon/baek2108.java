@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek2108{
     
     static public int avg(int[] arr){
         double sum = 0;

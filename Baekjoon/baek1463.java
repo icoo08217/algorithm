@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main {
+public class baek1463 {
 
     static Integer[] dp;
     public static void main(String[] args) throws IOException {

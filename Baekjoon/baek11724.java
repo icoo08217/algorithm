@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main{
+class baek11724{
 
     static int n , m;
     static int check[][];

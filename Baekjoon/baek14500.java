@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Main {
+class baek14500 {
 
     public static int n, m , a[][], result;
     public static boolean check[][];

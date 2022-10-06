@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main { // DP 실버3 피보나치 함수
+public class baek1003{ // DP 실버3 피보나치 함수
     static int count_0 ;
     static int count_1 ;
     static Integer[][] dp;
