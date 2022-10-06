@@ -25,6 +25,7 @@ class Solution_news {
             if (checkStr(str.charAt(0)) && checkStr(str.charAt(1)) ) {
                 str = str.toUpperCase();
                 listA.add(str);
+
             }
         }
         int sizeListA = listA.size();
@@ -63,11 +64,7 @@ class Solution_news {
     }
 
     public static boolean checkStr(char c) { // 두 글자가 모두 영어 소문자, 대문자 인지 검사
-        if (c >= 65 && c <= 90) {
-            return true;
-        } else if (c >= 97 && c <= 122) {
-            return true;
-        }
+        if (Character.isUpperCase(c)) return true;
         return false;
     }
 }
