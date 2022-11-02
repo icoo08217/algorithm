@@ -5,3 +5,9 @@ public class BestAlbum {
         System.out.println("hello");
     }
 }
+
+class Solution_BestAlbum {
+    public void solution() {
+
+    }
+}
