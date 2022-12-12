@@ -51,7 +51,7 @@ class Solution_소수_찾기 {
         int limit = (int) Math.sqrt(n);
 
         // 3. 에라토스테네스의 에 따라 limit 까지만 배수 여부를 확인한다.
-        for (int i = 2; i < limit; i++) {
+        for (int i = 2; i <= limit; i++) {
             if (n % i == 0) {
                 return false;
             }
